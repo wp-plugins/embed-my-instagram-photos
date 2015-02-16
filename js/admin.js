@@ -1,0 +1,4 @@
+function bingo()
+{
+   alert("bingo");
+}
