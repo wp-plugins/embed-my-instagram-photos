@@ -3,7 +3,7 @@
 Plugin Name: Embed My Instagram Photos
 Plugin URI: http://embedmyphotos.com
 Description: Super simple and easy to use! Embed your Instagram photo gallery directly into your Wordpress site. No complex registration or access tokens. Any Instagram user can display their photos as a slideshow or in a grid and configure sizes, borders and much more.
-Version: 1.0
+Version: 1.1
 Author: EmbedMyPhotos
 Author URI: http://embedmyphotos.com
 */
